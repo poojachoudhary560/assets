@@ -1,2 +1,0 @@
-# assets
-Created with CodeSandbox
